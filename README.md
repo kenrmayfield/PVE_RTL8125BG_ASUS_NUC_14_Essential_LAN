@@ -5,9 +5,9 @@ I created this to get the Realtek RTL8125BG NIC working with Proxmox on my **ASU
 
 ## Prerequisites
 You need an internet connection to download the driver package. If your NIC is not working yet, you can use:
-- An external NIC (recommended)
+- An external NIC / Dock (JSAUX Steam Deck Dock in my case)
 - Preload the package beforehand
-- Use the built-in WiFi (if available)
+- Use the built-in WiFi (if available with your Device)
 
 ## Installation Steps
 
