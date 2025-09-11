@@ -1,6 +1,6 @@
 # Realtek r8125 Driver Installation Script
 
-This script installs the latest Realtek r8125bg driver provided by [awesometic](https://github.com/awesometic/realtek-r8125-dkms) on GitHub.  
+This script installs the latest Realtek r8125 driver provided by [awesometic](https://github.com/awesometic/realtek-r8125-dkms) on GitHub.  
 I created this to get the Realtek RTL8125BG NIC working with Proxmox on my **ASUS NUC 14 Essential (90AR00M2-M00XXX)**.
 
 ## Prerequisites
